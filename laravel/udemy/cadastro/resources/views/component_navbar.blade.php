@@ -1,0 +1,20 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark rounded">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+    aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbar">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+                <a href="/" class="nav-link">Home</a>
+            </li>
+            <li class="nav-item">
+                <a href="produtos" class="nav-link">Produtos</a>
+            </li>
+            <li class="nav-item">
+                <a href="categorias" class="nav-link">Categorias</a>
+            </li>
+        </ul>
+    </div>
+</nav>
