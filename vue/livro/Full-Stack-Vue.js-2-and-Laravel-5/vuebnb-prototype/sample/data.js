@@ -1,21 +1,21 @@
 var sample = {
-  title: 'Central Downtown Apartment with Amenities',
-  address: 'No. 11, Song-Sho Road, Taipei City, Taiwan 105',
-  about: 'Come and stay at this modern and comfortable apartment! My home is centrally located right in the middle' +
-  ' of the downtown. Talk about convenience! Shops, stores, and other destination areas are nearby. \r\n\r\nFeel the ' +
-  'warmth of the sun as there is plenty of natural light showers. The living room features tv, sofa, table, radio, ' +
-  'and fan. There is free wi-fi with a fast internet speed. \r\n\r\nForgot shopping for breakfast staples? We provide ' +
-  'eggs, bread, cereals, coffee, milk, tea and cookies. Enjoy cooking as my kitchen boasts full size appliances. The ' +
-  'dining table is for four people. Need to wash your clothes? There is a washer and a dryer. We provide hampers, ' +
-  'detergents, and clothing conditioner. \r\n\r\nIf you need to hit the gym, there is located at the fourth floor of ' +
-  'the building. There is indoor spa and pool.',
+  title: 'Apartamento no centro da cidade com comodidades',
+  address: 'No. 11, Song-Sho Road, Cidade de Taipei, Taiwan 105',
+  about: 'Venha e fique neste apartamento moderno e confortável! Minha casa está centralmente localizada bem no meio' +
+  ' do centro da cidade. Fale sobre conveniência! Lojas, lojas e outras áreas de destino estão próximas. \r \n \r \nSinta a ' +
+  'calor do sol, pois há muitos chuveiros com luz natural. A sala possui tv, sofá, mesa, rádio,' +
+  'e fã. Há acesso wi-fi com uma velocidade rápida da Internet. \r \n \r \nNão esqueceu de comprar alimentos básicos? Nós provemos' +
+  'ovos, pão, cereais, café, leite, chá e biscoitos. Gosta de cozinhar, pois minha cozinha possui aparelhos de tamanho grande. O' +
+  'mesa de jantar é para quatro pessoas. Precisa lavar suas roupas? Há uma lavadora e secadora. Nós fornecemos cabazes,' +
+  'detergentes e condicionador de roupas. \r \n \r \nSe você precisar ir à academia, está localizado no quarto andar de' +
+  'o edifício. Há spa e piscina coberta.',
   amenities: [
     {
-      title: 'Wireless Internet',
+      title: 'Internet sem fio',
       icon: 'fa-wifi'
     },
     {
-      title: 'Pets Allowed',
+      title: 'Pets Permitidos',
       icon: 'fa-paw'
     },
     {
@@ -23,33 +23,33 @@ var sample = {
       icon: 'fa-television'
     },
     {
-      title: 'Kitchen',
+      title: 'Cozinha',
       icon: 'fa-cutlery'
     },
     {
-      title: 'Breakfast',
+      title: 'Café da manhã',
       icon: 'fa-coffee'
     },
     {
-      title: 'Laptop friendly workspace',
+      title: 'Área de trabalho amigável para laptop',
       icon: 'fa-laptop'
     }
   ],
   prices: [
     {
-      title: 'Per night',
-      value: '$89'
+      title: 'Por noite',
+      value: 'R$89'
     },
     {
-      title: 'Extra people',
-      value: 'No charge'
+      title: 'Pessoas extra',
+      value: 'Sem custo'
     },
     {
-      title: 'Weekly discount',
+      title: 'Desconto semanal',
       value: '18%'
     },
     {
-      title: 'Monthly discount',
+      title: 'Desconto mensal',
       value: '50%'
     }
   ]
