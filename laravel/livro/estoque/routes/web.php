@@ -17,6 +17,4 @@ Route::get('/', function () {
     return '<h1>Primeira lógica Laravel</h1>';
 });
 
-Route::get('/', function () {
-    return '<h1>Outra lógica Laravel</h1>';
-});
+Route::get('/produtos', 'produtoController@lista');
