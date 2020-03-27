@@ -13,5 +13,11 @@ CREATE TABLE IF NOT EXISTS `comclien` (
   PRIMARY KEY `pk_id`(`n_numeclien`)
 ) ENGINE = InnoDB;
 
-/*DESC comclien;*/
+/*
+|---------------------------------------|
+|Para verificar a tabela criada rode:   |
+|---------------------------------------|
+|DESC comclien;                         |
+|---------------------------------------|
+/*
 
